@@ -1,4 +1,4 @@
-# Olá, eu sou Geovane Arnaut! 👋
+# Olá, eu sou Geovane! 👋
 ### Engenheiro Mecânico | Dados & Simulação Computacional (CAE)
 
 Engenheiro focado na convergência entre **Engenharia Assistida por Computador (CAE)** e **Ciência de Dados**. Especialista em otimização estrutural e desenvolvimento de soluções que integram validação virtual e análise de dados para suporte à decisão estratégica.
