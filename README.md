@@ -32,7 +32,11 @@ Transformo fluxos manuais em processos inteligentes e escaláveis.
 
 ## 🗣️ Idiomas
 
-**Inglês** Avançado ● ● ● ○ ○ &nbsp;&nbsp;&nbsp;&nbsp; **Alemão** Intermediário ● ● ○ ○ ○ &nbsp;&nbsp;&nbsp;&nbsp; **Italiano** Intermediário ● ● ○ ○ ○
+| Idioma | Nível de Proficiência | Status Visual |
+| :--- | :--- | :--- |
+| **Inglês** | Avançado | `● ● ● ● ○` |
+| **Alemão** | Intermediário | `● ● ● ○ ○` |
+| **Italiano** | Intermediário | `● ● ● ○ ○` |
 
 ---
 
